@@ -1,6 +1,6 @@
-# Machine vs bot: tuning Machine Learning models to detect bots on Twitter
+# Tuning Machine Learning models to detect bots on Twitter
 This repository contains the code for the pipeline and the experiments presented in the paper 
-"Machine vs Bot: tuning machine learning models to detect bots on Twitter" submited to the 5th 
+"Tuning machine learning models to detect bots on Twitter" submited to the 5th 
 Workshop on Computer Networks and Communication Systems (WCNPS) 2020.
 
 Authors:
